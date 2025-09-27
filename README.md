@@ -5,7 +5,7 @@
 ### AIM: 
 Write a python program for sorting and inspect for failures.
  
-### Algorithm:
+### Algorithm :
 1. Start the program.
 2. Get the number of elements from user
 3. Get the elements to be sorted
